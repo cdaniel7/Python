@@ -1,0 +1,4 @@
+﻿Code explanation
+1)  Python file opens ipstack.csv and retrieves loan_ipaddress & payment_ipaddress columns
+2)  Ip addresses from these columns are plugged into https://ipstack.com/ and corresponding latitude & longitudes are retrieved
+3) Distance is calculated between these  latitudes & Longitudes  using the geodesic python module.

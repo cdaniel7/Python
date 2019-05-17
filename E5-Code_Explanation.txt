@@ -1,0 +1,1 @@
+Code Explanation This Python file sets properties for users within Mixpanel.com.It gets its data from data.csv 
